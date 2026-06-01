@@ -21,9 +21,7 @@
 
 ## Под капотом и SEO
 
-<video src="https://raw.githubusercontent.com/a-milenkin/opus_clips_reels/main/result_2.png" controls="controls" width="100%"></video>
-
-<video src="hooks_lenta.mp4" controls="controls" width="100%"></video>
+![Демка работы хуков](result_2.png)
 
 Если тебе нужно быстро нарезать длинное видео на шортсы или рилсы, то сервис полностью закроет эту задачу. Отлично подходит для авторов подкастов, инфобизнесменов и маркетологов. Тебе больше не нужен монтажер в штате.
 
